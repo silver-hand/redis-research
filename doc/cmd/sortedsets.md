@@ -1,0 +1,49 @@
+# redis sorted sets
+
+## redis sorted sets 命令
+
+- ZADD
+
+- ZCARD
+
+- ZCOUNT
+
+- ZINCRBY
+
+- ZINTERSORE
+
+- ZLEXCOUNT
+
+- ZRANGE
+
+- ZRANGEBYLEX
+
+- ZREVRANEBYLEX
+
+- ZRANGEBYSORE
+
+- ZRANK
+
+- ZREM
+
+- ZREMRANGEBYLEX
+
+- ZREMRANGEBYRANK
+
+- ZREMRANGEBYSORE
+
+- ZREVRANGE
+
+- ZREVRANGEBYSORE
+
+- ZREVRANK
+
+- ZSORE
+
+- ZUNIONSTORE
+
+- ZSCAN
+
+## redis sorted sets 应用场景
+
+## redis sorted sets 实现原理
